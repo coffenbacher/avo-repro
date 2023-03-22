@@ -72,4 +72,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
-gem "avo"
+
+gem 'avo', '~> 2.28.1.pre.pr1642'
